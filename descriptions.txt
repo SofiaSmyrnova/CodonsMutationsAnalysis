@@ -1,0 +1,3 @@
+GAC:GAC (Aspartic acid): may cause sickle cell anemia if replacing another amino acid
+TAG:Premature stop codon! Protein is incomplete. Associated with cancer, cystic fibrosis
+TGA:Premature stop codon! Associated with Duchenne muscular dystrophy
