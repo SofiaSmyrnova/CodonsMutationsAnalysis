@@ -1,0 +1,13 @@
+Hey guys! This code was made to analyze DNA nucleotide sequence. 
+You can upload your codons and nucleotids to the Input.txt file and check if they have next mutations:
+
+1. GAC
+2. TAG
+3. TGA
+
+How to understand?
+GAC:GAC (Aspartic acid): may cause sickle cell anemia if replacing another amino acid
+TAG: may be a premature stop codon. It means that protein is incomplete. Associated with cancer, cystic fibrosis
+TGA: may be a premature stop codon. Associated with Duchenne muscular dystrophy
+
+Always happy to help
